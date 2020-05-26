@@ -1,5 +1,4 @@
 # bliot
-*the contents of this project are confidential*
 
 an IoT based blind stick that can alert the near and dear ones of the blind person automatically by performing 3 tasks:
 1. making a call 
